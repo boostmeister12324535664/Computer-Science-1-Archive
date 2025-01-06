@@ -6,7 +6,7 @@ and because discord wont let me upload directories aughhhh
 
 ## instructions
 
-to download files, navigate to the folder/directory you wanna download and copy the whole url in the search bar
+to download files, click on the folder/directory you wanna download and copy the whole url in the search bar
 
 then go to https://download-directory.github.io/ and paste the url
 
