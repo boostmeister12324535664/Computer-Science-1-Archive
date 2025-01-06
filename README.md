@@ -5,7 +5,7 @@ for ms. moushmer because her usb no worky
 and because discord wont let me upload directories aughhhh
 
 
-## instructions
+## instructions 🤓☝️
 
 to download files, click on the folder/directory you wanna download and copy the whole url in the search bar
 
